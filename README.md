@@ -1,9 +1,9 @@
 #Project setup
 
-Instalar dependências
+Instalar dependências:
 npm install
 
-Iniciar projeto
+Iniciar projeto:
 npm run serve
 
-Projeto irá subir na porta 8080 do endereço localhost.
+Projeto irá rodar na porta 8080 do endereço localhost.
